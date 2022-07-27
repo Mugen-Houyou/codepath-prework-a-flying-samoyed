@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">A Flying Samoyed!</string>
+    <string name="a_flying_samoyed_intro">Did you know that Samoyeds could actually fly? The Samoyed is actually an angel in the form of a cute dog, capable of flying through wings invisible to humans.</string>
+    <string name="intro_button_text">Say Hello!</string>
+</resources>
