@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://i.imgur.com/WYp7FQr.mp4)
+[![Watch the video](https://i.imgur.com/3g5HiH3.png)](https://i.imgur.com/WYp7FQr.mp4)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Mobizen](https://www.mobizen.com/).  
@@ -37,9 +37,11 @@ GIF created with [Mobizen](https://www.mobizen.com/).
 
 Describe any challenges encountered while building the app.
 
+I wanted to clearly state the source of the intro image. After thinking about what to do, I wanted to make it possible to click on an image to display credits, and to create a VISIT button on the right side to actually visit the original post. I implemented this through Snackbar.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2022 Gabriel Mihnsurk Kim
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
