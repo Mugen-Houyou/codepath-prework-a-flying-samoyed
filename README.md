@@ -27,7 +27,7 @@ Here's a walkthrough of implemented features:
 [![Watch the video](https://i.imgur.com/3g5HiH3.png)](https://i.imgur.com/WYp7FQr.mp4)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with [Mobizen](https://www.mobizen.com/).  
+Please click above to see the video. GIF created with [Mobizen](https://www.mobizen.com/), [SHANA Encoder](https://shana.pe.kr/shanaencoder_download), and [Ezgif.com](https://ezgif.com/).
 <!-- Other options include:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
