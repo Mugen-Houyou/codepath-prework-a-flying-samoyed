@@ -15,15 +15,15 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val introImage = findViewById<ImageView>(R.id.samoyedImageView)
+        val introImage = findViewById<ImageView>(R.id.myIntroImageView)
         introImage.setOnClickListener{
             Log.v("Hello image", "Image Clicked~")
             val mSnackbar: Snackbar =
-                Snackbar.make(it, "Credit: u/yuzhouyuzhou7 from Reddit", Snackbar.LENGTH_LONG)
+                Snackbar.make(it, getString(R.string.intro_image_snackbar_msg), Snackbar.LENGTH_LONG)
             mSnackbar.setAction("VISIT") {
                 Log.v("Snackbar button", "Snackbar Button Clicked~")
                 val openURL = Intent(Intent.ACTION_VIEW)
-                openURL.data = Uri.parse("https://www.reddit.com/r/samoyeds/comments/w6o899/samoya_all_four_feet_off_the_ground/")
+                openURL.data = Uri.parse(getString(R.string.intro_image_url))
                 startActivity(openURL)
             }
             mSnackbar.show()
@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
         val introButton = findViewById<Button>(R.id.introSayHelloButton)
         introButton.setOnClickListener{
             Log.v("Hello world", "Button Clicked~")
-            Toast.makeText(this, "The Samoyed says hello!", Toast.LENGTH_LONG).show()
+            Toast.makeText(this, getString(R.string.intro_toast_button_msg), Toast.LENGTH_LONG).show()
         }
     }
 }

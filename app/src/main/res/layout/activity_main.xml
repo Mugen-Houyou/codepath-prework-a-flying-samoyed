@@ -12,23 +12,12 @@
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="16dp"
         android:text="@string/a_flying_samoyed_intro"
+        android:textAlignment="center"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/samoyedImageView"
+        app:layout_constraintTop_toBottomOf="@+id/myIntroImageView"
         android:layout_marginTop="48dp"
         />
-
-    <ImageView
-        android:id="@+id/samoyedImageView"
-        android:layout_width="288dp"
-        android:layout_height="288dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/_ryxtgstdgd91"
-        android:layout_marginTop="120dp"
-        />
-
 
 
     <Button
@@ -40,5 +29,15 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/introTextView" />
+
+    <ImageView
+        android:id="@+id/myIntroImageView"
+        android:layout_width="288dp"
+        android:layout_height="288dp"
+        android:layout_marginTop="120dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/_022_07_29_18_17_46" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

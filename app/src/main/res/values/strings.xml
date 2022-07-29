@@ -1,5 +1,8 @@
 <resources>
-    <string name="app_name">A Flying Samoyed!</string>
-    <string name="a_flying_samoyed_intro">Did you know that Samoyeds could actually fly? The Samoyed is actually an angel in the form of a cute dog, capable of flying through wings invisible to humans.</string>
+    <string name="app_name">My CodePath Pre-work App!</string>
+    <string name="a_flying_samoyed_intro">Hello! This is Gabriel Kim. Nice to meet you.</string>
     <string name="intro_button_text">Say Hello!</string>
+    <string name="intro_toast_button_msg">Gabriel says hello to you!</string>
+    <string name="intro_image_url">https://www.airport.kr/ap/ko/index.do</string>
+    <string name="intro_image_snackbar_msg">Photo taken at Incheon Intl. Airport</string>
 </resources>
