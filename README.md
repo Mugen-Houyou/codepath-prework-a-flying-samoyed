@@ -16,8 +16,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [X] Snackbar showing the credit of the image when button is pressed
-* [X] Also 'VISIT' button on the snackbar to visit the original website
+* [X] Snackbar showing the location of the image when button is pressed
+* [X] Also 'VISIT' button on the snackbar to visit the website
 
 
 ## Video Walkthrough
