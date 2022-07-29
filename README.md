@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[![Watch the video](https://i.imgur.com/3g5HiH3.png)](https://i.imgur.com/WYp7FQr.mp4)
+[![Watch the video](https://i.imgur.com/dyCxNqr.png)](https://i.imgur.com/oVcCkCS.mp4)
 
 <!-- Replace this with whatever GIF tool you used! -->
 Please click above to see the video. GIF created with [Mobizen](https://www.mobizen.com/), [SHANA Encoder](https://shana.pe.kr/shanaencoder_download), and [Ezgif.com](https://ezgif.com/).
